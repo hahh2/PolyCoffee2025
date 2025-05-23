@@ -10,5 +10,6 @@ package fpt.edu.mavenpolycafe.ui;
  * @author sdet6
  */
 public interface NewInterface {
-    
+    void open();
+    void close();
 }
